@@ -1,6 +1,6 @@
 ### Hi there 👋 欢迎来到我的二手小店鸭🦆，随意挑选哦
 
-开业扫描微信二维码详细咨询哦！
+扫描微信二维码详细咨询哦！
 
 <!--
 **maiershou/maiershou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
